@@ -1,0 +1,17 @@
+http://127.0.0.1:8000/learn_api/default/api/person   -POST TO PERSON DB
+{
+	"name": "ben9", 
+	"info": "gdfhgfdhfdh",
+	"balance":500
+	
+}
+
+http://127.0.0.1:8000/learn_api/default/api/car -  -POST TO PERSON DB
+
+{
+	"muridzi": 10, 
+	"model":"Mazda 323"
+	"passengers": 4,
+	"price":500
+	
+}
